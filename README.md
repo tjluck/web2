@@ -1,4 +1,4 @@
-Welceom to this great new project.
+Welcome to this great new project.
 
 Contributors Guide
 ==================
